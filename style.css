@@ -120,6 +120,13 @@ h2 {
   padding: 24px;
 }
 
+.duvida h3  {
+  border: 2px solid #FF725E;
+  border-radius: 8px;
+  cursor: pointer;
+  padding: 24px;
+}
+
 .duvida img {
   position: absolute;
   top: 32px;
